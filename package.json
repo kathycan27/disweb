@@ -7,5 +7,10 @@
   },
   "author": "",
   "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "devDependencies": {},
   "description": ""
 }
